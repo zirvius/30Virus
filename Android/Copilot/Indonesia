@@ -1,0 +1,37 @@
+Malware dan Virus Android:
+1. Joker - Malware ini sangat berbahaya karena mampu mencuri data SMS, daftar kontak, dan informasi perangkat lainnya. Lebih buruk lagi, malware ini dapat mendaftarkan pengguna ke layanan premium tanpa izin mereka, yang menyebabkan tagihan tak terduga.
+2. HiddenAds - Menyamar sebagai aplikasi yang terlihat sah, namun menampilkan iklan yang sangat mengganggu. Malware ini sulit dihapus karena sering kali menyembunyikan dirinya sendiri.
+3. Vultur - Dirancang untuk mencuri informasi sensitif, malware ini merekam layar perangkat pengguna, yang sering digunakan untuk mengakses aplikasi perbankan atau keuangan.
+4. Agent Smith - Malware ini menyusup ke aplikasi yang sudah terinstal di perangkat dan menggantinya dengan versi berbahaya yang menyisipkan iklan atau kode berbahaya.
+5. Godless - Malware ini mengeksploitasi celah keamanan pada perangkat Android yang lebih lama untuk mendapatkan akses root, memungkinkan penyerang mengendalikan perangkat korban.
+6. HummingBad - Dengan metode klik iklan palsu, malware ini menghasilkan pendapatan bagi pengembangnya dan dapat menginstal aplikasi tanpa sepengetahuan pengguna.
+7. CopyCat - Malware ini mencuri data pengguna dan memanipulasi iklan untuk menghasilkan pendapatan palsu. Ia juga dapat merusak perangkat pengguna.
+8. Triada - Malware ini memiliki kemampuan modular yang membuatnya sulit dideteksi dan dihapus. Ia sering kali menyerang file sistem inti untuk mencuri data sensitif pengguna.
+9. Gooligan - Fokus utama malware ini adalah akun Google. Ia mencuri token otentikasi untuk mendapatkan akses ke Gmail, Google Drive, dan layanan lainnya.
+10. BlackRock - Malware ini dirancang untuk mencuri kredensial login dari aplikasi perbankan dan media sosial. Sering kali menyamar sebagai aplikasi populer untuk memikat korban.
+
+Trojan:
+11. Anubis - Trojan ini menargetkan aplikasi perbankan untuk mencuri data login dan informasi keuangan. Ia biasanya disebarkan melalui aplikasi palsu.
+12. AhMyth - Sebagai Remote Access Trojan (RAT), malware ini memberikan kontrol penuh kepada penyerang untuk mengakses dan mencuri data perangkat korban.
+13. Necro - Trojan ini dapat mencuri data, menyebarkan infeksi, atau meluncurkan serangan DDoS yang merusak.
+14. Emotet - Awalnya Trojan perbankan, Emotet kini sering digunakan sebagai perantara untuk menyebarkan malware lain, termasuk ransomware.
+15. Xhelper - Trojan yang sangat sulit dihapus karena dapat muncul kembali setelah dihapus, membuatnya menjadi ancaman terus-menerus.
+16. Lokibot - Malware ini terkenal karena mencuri informasi login dari aplikasi, browser, dan bahkan sistem operasi perangkat.
+17. FakeSpy - Trojan ini mencuri berbagai data pribadi, seperti pesan SMS, daftar kontak, dan informasi perbankan pengguna.
+18. Cerberus - Trojan ini menargetkan aplikasi perbankan dengan mencuri kredensial login dan bahkan mengendalikan perangkat dari jarak jauh.
+19. Android.Banker - Trojan ini khusus menargetkan aplikasi perbankan untuk mencuri data login dan informasi keuangan lainnya.
+20. BankBot - Trojan ini menyerang aplikasi keuangan dan perbankan untuk mencuri informasi pribadi dan finansial.
+
+Ransomware:
+21. Lockerpin - Ransomware ini mengunci perangkat korban dan meminta tebusan untuk membuka kunci perangkat.
+22. Svpeng - Selain mengenkripsi file, ransomware ini juga mencuri informasi keuangan pengguna.
+23. DoubleLocker - Mengunci perangkat korban sekaligus mengenkripsi data yang ada di dalamnya. Penyerang meminta tebusan untuk keduanya.
+24. WannaLocker - Versi Android dari WannaCry, ransomware ini mengenkripsi file dan meminta tebusan untuk mengembalikan data pengguna.
+25. Simplocker - Salah satu ransomware Android pertama, malware ini mengenkripsi file pengguna dan meminta pembayaran untuk dekripsi.
+
+PUP dan PUA (Potentially Unwanted Programs/Applications):
+26. Adware - Program ini biasanya diinstal tanpa sepengetahuan pengguna dan menampilkan iklan secara berlebihan yang mengganggu.
+27. RiskTool - Aplikasi yang tampaknya sah tetapi dapat digunakan untuk aktivitas berbahaya, seperti mengirim SMS premium tanpa izin.
+28. Bundled Software - Program tambahan yang sering kali diinstal bersamaan dengan aplikasi utama tanpa persetujuan pengguna, yang dapat menimbulkan risiko keamanan.
+29. SuperCleaner - Contoh aplikasi pembersih palsu yang biasanya mengandung malware atau adware.
+30. Browser Hijacker - Program ini mengubah pengaturan browser pengguna, seperti halaman beranda dan mesin pencari, untuk mengarahkan mereka ke situs tertentu.
