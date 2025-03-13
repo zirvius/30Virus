@@ -1,0 +1,89 @@
+1. Virus
+A virus is one of the oldest types of malware, dating back to the early days of computing. It works by attaching itself to specific files or programs and spreading when they are executed. For example, the ILOVEYOU virus, which emerged in 2000, was one of the most destructive in history. It spread through emails with the subject "I love you," making many people curious enough to open the infected attachment. As a result, this virus caused billions of dollars in damages worldwide. Viruses like this can corrupt files, slow down systems, or even render a computer unusable.
+
+2. Trojan Horse
+A Trojan horse, often called a Trojan, is malware that disguises itself as legitimate software to trick users into downloading it. Unlike viruses, Trojans do not self-replicate; instead, they require users to execute the infected program. A notable example is Emotet, initially designed to steal banking information. Trojans often infiltrate systems through phishing emails containing seemingly legitimate attachments or links. Once installed, a Trojan can create a backdoor into the system, allowing attackers to steal sensitive information, such as banking credentials, or even take full control of the device.
+
+3. Ransomware
+Ransomware is one of the most destructive and threatening types of malware. It encrypts the victim's data and demands a ransom to restore access. A famous example is WannaCry, which struck in 2017. This malware spread by exploiting vulnerabilities in Windows operating systems, infecting thousands of computers in a short time. Its impact was severe, affecting hospitals and critical infrastructure, leading to widespread service disruptions.
+
+4. Spyware
+Spyware is designed to monitor user activity without their knowledge. This type of malware is often used to steal personal information, such as passwords, credit card numbers, or other financial data. A common type of spyware is a keylogger, which records every keystroke typed by the user. In some cases, spyware can also track browsing activity to create user behavior profiles, which are then used for advertising purposes or even identity theft.
+
+5. Adware
+Adware is malware that focuses on displaying intrusive advertisements. Some adware merely shows excessive ads, but more dangerous variants can redirect users to unsafe websites or install additional malware. An example is Fireball, which infected millions of devices to generate illegal ad revenue. Adware is often bundled with free software downloaded from the internet.
+
+6. Worms
+A worm is malware capable of self-replication without requiring a host file or user interaction. Worms typically exploit vulnerabilities in networks or operating systems to spread. A famous example is Conficker, which exploited weaknesses in Windows systems and spread to millions of computers. Worms not only degrade system performance but can also be used to install other malware or create botnets.
+
+7. Rootkit
+A rootkit is a type of malware designed to hide its presence from security software. This allows attackers to maintain administrative access to a system undetected. Rootkits are often used to keep other malware active on a system or enable persistent attacks.
+
+8. Botnets
+A botnet is a network of computers infected with malware and remotely controlled by an attacker. These compromised computers, often called "zombies," are used for illegal activities such as Distributed Denial-of-Service (DDoS) attacks, spam distribution, or data theft. A well-known example is the Mirai botnet, which exploited insecure Internet of Things (IoT) devices to launch massive attacks on internet infrastructure.
+
+9. Fileless Malware
+Fileless malware does not leave traces in the form of files on the hard drive but instead operates in memory or RAM. This technique makes it difficult for traditional antivirus software to detect. This malware often exploits built-in Windows tools, such as PowerShell or Windows Management Instrumentation (WMI), to carry out attacks.
+
+10. Scareware
+Scareware is malware designed to frighten users into taking specific actions, such as purchasing fake software or providing personal information. Typically, scareware appears as pop-ups claiming that your system has been infected and can only be fixed by buying certain "software."
+
+11. Cryptojacking
+Cryptojacking is a type of malware that secretly uses a victim's computer to mine cryptocurrency. This activity often slows down the system and increases power consumption without the user's knowledge.
+
+12. Malvertising
+Malvertising refers to malicious advertisements embedded in digital ad platforms. When users click on these ads, they are redirected to dangerous sites or malware is automatically downloaded onto their devices. These ads often disguise themselves as legitimate ones on seemingly safe websites.
+
+13. Logic Bomb
+A logic bomb is malware programmed to "detonate" and activate itself when specific conditions are met, such as on a particular date or when a user opens a certain program. Attackers often use this to destroy data or disable systems.
+
+14. Polymorphic Malware
+This type of malware continuously alters its own code to evade detection by security software. Polymorphic malware employs different encryption techniques each time it spreads or executes.
+
+15. Rogue Security Software
+This malware pretends to be security software, such as antivirus or antispyware, to trick users into downloading it. Once installed, it may demand payment to "remove viruses" or even introduce additional malware into the system.
+
+16. Backdoor
+A backdoor is malware designed to provide attackers with hidden access to a computer system. This allows them to perform various actions without the user's knowledge, such as stealing data or installing other malware.
+
+17. Exploit Kits
+Exploit kits are automated tools designed to exploit software vulnerabilities in browsers, plugins, or applications. Attackers use these vulnerabilities to inject malware into a victim's system with minimal user interaction. One well-known example is the Angler Exploit Kit, capable of exploiting multiple security flaws simultaneously to increase attack efficiency.
+
+18. Remote Access Trojans (RATs)
+Remote Access Trojans give attackers full remote control over a victim’s device. RATs enable attackers to steal data, monitor user activity, or even access a device’s camera and microphone. A well-known example is DarkComet, which has been used in various cyberattacks since its release.
+
+19. Banking Malware
+Banking malware is designed to steal financial information from users, such as usernames, passwords, and bank account details. Malware like Dridex and Dyre are commonly used by cybercriminals to gain unauthorized access to victims' bank accounts.
+
+20. Downloader Malware
+Downloader malware's primary function is to download and install additional malware onto the victim's device. An example is Nemucod, often used to spread ransomware or spyware after being installed on a victim's device.
+
+21. Doxware (Extortionware)
+This type of malware threatens to release victims' personal data or important documents unless a ransom is paid. This often causes significant psychological distress, especially if the leaked data is highly sensitive.
+
+22. Spy Banker Malware
+Spy Banker malware is designed to steal user credentials from banking applications or websites, particularly on mobile devices. It allows attackers to gain direct access to victims’ banking credentials and commit financial fraud.
+
+23. Phishing Kits
+Phishing kits are collections of automated tools or scripts used to create fake websites that mimic legitimate ones. These sites trick users into entering personal information, such as usernames, passwords, or financial details.
+
+24. Man-in-the-Middle (MITM) Attacks
+In a MITM attack, an attacker intercepts communication between two parties without their knowledge. The attacker can steal sensitive information, such as login credentials, or even modify transmitted data.
+
+25. Drive-by Downloads
+Drive-by downloads occur when malware is automatically downloaded to a user's device upon visiting a compromised website. These attacks often happen without user interaction, making them highly dangerous.
+
+26. Macro Malware
+Macro malware exploits the macro functionality in applications like Microsoft Word or Excel. When a malicious macro is enabled, the malware attacks and infiltrates the system, often without the user noticing.
+
+27. Spam Bots
+Spam bots are designed to send massive amounts of emails containing malicious links or infected attachments. These spam activities are often used to distribute ransomware or phishing attacks.
+
+28. Zero-day Malware
+Zero-day malware exploits vulnerabilities unknown to software developers. Since these vulnerabilities haven't been patched, zero-day malware is extremely difficult to detect and prevent in a short time.
+
+29. Firmware Malware
+This type of malware targets device firmware, such as BIOS or UEFI. Since firmware operates at a low system level, these attacks are hard to remove and can give attackers full control over a device.
+
+30. Social Engineering Malware
+This malware uses psychological manipulation to trick victims into granting access to their data. Social engineering techniques are commonly used through emails, text messages, or fake websites to gain victims' trust.
